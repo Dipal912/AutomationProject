@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.ng.AmericanEagle"/>
+      <class name="com.ng.FaceBookTest"/>
+      <class name="com.ng.KrogerTest"/>
+      <class name="com.ng.HrmLoginpageTest"/>
+      <class name="com.ng.WalmartTest"/>
+      <class name="com.ng.Guru99Test"/>
+      <class name="com.ng.OldNavyTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
